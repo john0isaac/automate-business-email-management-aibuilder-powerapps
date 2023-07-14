@@ -3,7 +3,14 @@ Step-by-step guide on creating a Three-Screen Power App from scratch, connecting
 
 [Link Here]()
 
-<p align ="center"><img src="./Images/application-ui.png">
+  ## First Screen
+  <p align ="center"><img src="./Images/application-ui1.png">
 
-## Example
-<p align ="center"><img src="./Images/application-demo.png">
+  ## Second Screen
+  <p align ="center"><img src="./Images/application-ui2.png">
+
+  ## Third Screen
+  <p align ="center"><img src="./Images/application-ui3.png">
+
+  ## Example
+  <p align ="center"><img src="./Images/application-demo.gif">
